@@ -1,4 +1,4 @@
-# TurtleBot3 PI Controller
+# TurtleBot3 PID Controller
 This ROS package is a simple practice for controlling the TurtleBot3 to move in an elliptic path
 
 ## How to Use the Package
