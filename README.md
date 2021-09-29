@@ -12,7 +12,7 @@ The first step is to make a workspace directory
 > catkin_init_workspace
 >
 then clone the repository into the src directory
-> clone https://github.com/aliy98/ROS_TurtleBot3_PI_Controller.git
+> git clone https://github.com/aliy98/ROS_TurtleBot3_PI_Controller.git
 >
 now make the ros package using caktkin_make command
 > cd ..
