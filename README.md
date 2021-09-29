@@ -30,7 +30,7 @@ open another terminal to choose the turtlebot type
 now the simulation process can be done in gazebo 
 > roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 >
-you can also use rviz to gain a better understanding of the path planning and robot footprint
+you can also use rviz to gain a better understanding of the path planning and robot footprint so open another terminal and run this command
 > roslaunch turtlebot3_gazebo turtlebot3_gazebo_rviz.launch
 >
 in the first terminal run the source files for visualising the robot footprint 
