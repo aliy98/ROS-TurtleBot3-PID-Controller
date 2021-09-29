@@ -34,8 +34,6 @@ you can also use rviz to gain a better understanding of the path planning and ro
 > roslaunch turtlebot3_gazebo turtlebot3_gazebo_rviz.launch
 >
 in the first terminal run the source files for visualising the robot footprint 
-> pip install simple_pid
->
 > rosrun pi_controller foot_print.py
 > 
 make sure you have added the path topic in rviz envoirenment
@@ -43,6 +41,8 @@ make sure you have added the path topic in rviz envoirenment
 
 open another terminal to run controller.py which is for the whole control and path planning process.
 but before running the package make sure that you have simple pid module installed on your os
+> pip install simple_pid
+>
 > source catkin_ws/devel/setup.bash
 >
 > rosrun pi_contoller controller.py
