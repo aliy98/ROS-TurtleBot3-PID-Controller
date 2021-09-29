@@ -44,3 +44,8 @@ but before running the package make sure that you have simple pid module install
 >
 > rosrun pi_contoller controller.py
 >
+![Screenshot from 2021-09-28 21-13-20](https://user-images.githubusercontent.com/65722399/135280561-db4b4861-8d30-4e3b-b6ef-322679088f09.png)
+the package also plots the path planning error during the simulation time
+![Figure_1](https://user-images.githubusercontent.com/65722399/135280985-a6255364-3e9c-47aa-b043-029b2a601756.png)
+![Figure_2](https://user-images.githubusercontent.com/65722399/135281076-6ee6ceb1-81e9-45e4-8683-74c565299ee7.png)
+
