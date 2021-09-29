@@ -37,7 +37,10 @@ in the first terminal run the source files for visualising the robot footprint
 > pip install simple_pid
 >
 > rosrun pi_controller foot_print.py
->
+> 
+make sure you have added the path topic in rviz envoirenment
+![Screenshot from 2021-09-29 17-28-01](https://user-images.githubusercontent.com/65722399/135284146-bfe89307-4783-456c-ab42-936a28e44868.png)
+
 open another terminal to run controller.py which is for the whole control and path planning process.
 but before running the package make sure that you have simple pid module installed on your os
 > source catkin_ws/devel/setup.bash
