@@ -36,7 +36,7 @@ you can also use rviz to gain a better understanding of the path planning and ro
 in the first terminal run the source files for visualising the robot footprint 
 > pip install simple_pid
 >
-> rosrun pi_controller footprint.py
+> rosrun pi_controller foot_print.py
 >
 open another terminal to run controller.py which is for the whole control and path planning process.
 but before running the package make sure that you have simple pid module installed on your os
