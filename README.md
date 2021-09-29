@@ -5,7 +5,7 @@ This ROS package is a simple practice for controlling the TurtleBot3 to move in 
 The first step is to make a workspace directory 
 > mkdir -p catkin_ws/src 
 > 
-> cd src
+> cd catkin_ws/src
 >
 > source /opt/ros/noetic/setup.bash
 >
